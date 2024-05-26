@@ -6,3 +6,5 @@ while i<10:
     i=i+1
 if 1<2:
     print("Lola trola")
+else: 
+    print("evtrola")
